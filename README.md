@@ -211,7 +211,7 @@ Loan status updated
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/srujithkandala-prog/REVPAY.git
+git clone https://github.com/Rajashekar616/RevPayApplication.git
 
 2️⃣ Setup MySQL Database
 
